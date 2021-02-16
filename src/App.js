@@ -9,7 +9,7 @@ function App() {
         <p>
           Hello, Welcome back!
         </p>
-        <p>
+        <p className = "changeStyle">
           Sonali Ganatra
         </p>
         <a

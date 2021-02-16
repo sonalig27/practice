@@ -24,6 +24,11 @@
   color: white;
 }
 
+.changeStyle{
+  font-size: larger;
+  color: chocolate;
+}
+
 .App-link {
   color: #61dafb;
 }
